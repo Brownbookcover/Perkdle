@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Perkdle", "Perkdle\Perkdle.csproj", "{C788B92C-6CFE-4C4E-AC3F-A37B30BF0E49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Perks", "Perks\Perks.csproj", "{C66DD9EE-9F6E-4606-96A0-10D678E1BE68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C788B92C-6CFE-4C4E-AC3F-A37B30BF0E49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C788B92C-6CFE-4C4E-AC3F-A37B30BF0E49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C788B92C-6CFE-4C4E-AC3F-A37B30BF0E49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C788B92C-6CFE-4C4E-AC3F-A37B30BF0E49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C66DD9EE-9F6E-4606-96A0-10D678E1BE68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C66DD9EE-9F6E-4606-96A0-10D678E1BE68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C66DD9EE-9F6E-4606-96A0-10D678E1BE68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C66DD9EE-9F6E-4606-96A0-10D678E1BE68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFDB8A52-F241-483F-BE03-2293C2B7B279}
+	EndGlobalSection
+EndGlobal

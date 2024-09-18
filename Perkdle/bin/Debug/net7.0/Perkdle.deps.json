@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Perkdle/1.0.0": {
+        "dependencies": {
+          "Perks": "1.0.0"
+        },
+        "runtime": {
+          "Perkdle.dll": {}
+        }
+      },
+      "Perks/1.0.0": {
+        "runtime": {
+          "Perks.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Perkdle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Perks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
